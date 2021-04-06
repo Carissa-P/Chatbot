@@ -1,0 +1,34 @@
+#textInput {
+    border: none;
+    border-bottom: 3px solid aqua;
+}
+
+.userText {
+    color: white;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: right;
+    line-height: 30px;
+}
+.userText span {
+    background-color: #009688;
+    padding: 10px;
+    border-radius: 2px;
+}
+.botText {
+    color: white;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+}
+.botText span {
+    background-color: #EF5350;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+body {
+  background-image: url("https://nypost.com/wp-content/uploads/sites/2/2019/03/old-library-book.jpg?quality=90&strip=all&w=1236&h=820&crop=1");
+  background-color: #cccccc;
+}
